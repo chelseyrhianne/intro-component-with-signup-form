@@ -36,31 +36,39 @@
           </p>
         </div>
         <div class="signup-el">
-          <form>
+          <form id="signup-form">
             <input
               type="text"
               placeholder="First Name"
               autocomplete="off"
               autofocus="off"
+              id="firstname"
             />
+            <span class="error" id="firstname-error"></span>
             <input
               type="text"
               placeholder="Last Name"
               autocomplete="off"
               autofocus="off"
+              id="lastname"
             />
+            <span class="error" id="lastname-error"></span>
             <input
               type="email"
               placeholder="Email Address"
               autocomplete="off"
               autofocus="off"
+              id="email"
             />
+            <span class="error" id="email-error"></span>
             <input
               type="password"
               placeholder="Password"
               autocomplete="off"
               autofocus="off"
+              id="password"
             />
+            <span class="error" id="password-error"></span>
             <input class="submit" type="submit" value="Claim your free trial" />
           </form>
           <div class="terms-el">
@@ -84,5 +92,6 @@
         >.
       </p>
     </footer>
+    <script src="src/app.js"></script>
   </body>
 </html>
