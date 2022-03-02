@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/chelseyrhianne/intro-component-with-signup-form)
-- Live Site URL: [Add live site URL here](https://gracious-joliot-bb5536.netlify.app/)
+- Solution URL: [github.com/chelseyrhianne/intro-component-with-signup-form](https://github.com/chelseyrhianne/intro-component-with-signup-form)
+- Live Site URL: [gracious-joliot-bb5536.netlify.app](https://gracious-joliot-bb5536.netlify.app/)
 
 ## My process
 
@@ -47,5 +47,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://chelseywatsondev.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/chelseyrhianne)
+- Website - [Chelsey Watson](https://chelseywatsondev.netlify.app/)
+- Frontend Mentor - [@chelseyrhianne](https://www.frontendmentor.io/profile/chelseyrhianne)
