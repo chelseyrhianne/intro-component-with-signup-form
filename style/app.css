@@ -78,7 +78,7 @@ span.error {
   margin-bottom: 6px;
 }
 
-div.flex-wrapper {
+.flex-wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
